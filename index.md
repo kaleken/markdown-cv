@@ -30,22 +30,37 @@ __Licence d'Anglais LLCER (Langues Littératures et Civilisation Etrangères ou 
 
 
 
+## Expériences professionnelles
+
+`Nov. 2013-Nov. 2013`
+__ADIDAS Champs-Elysée__
+_Stagiaire en découverte_
+
+`Nov. 2019-Déc. 2019`
+__EHPAD Korian Les Mathurins__
+_Etudiante infirmière_
+
+`Mar. 2020-Avr. 2020`
+__Hôpital psychiatrique Paul Guiraud__
+_Etudiante infirmière_
+
+`Fév. 2023-Aoû. 2023 - Juin 2024-Septembre 2024`
+__Equipier polyvalent Label Ferme__
+
+
+## Niveau de langue
+| Français | C2 |
+----------------
+| Anglais | C1 |
+---------------
+| Espagnol | B1 |
 
 
 
 
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
