@@ -26,7 +26,7 @@ __Lycée Cachan - Bacalauréat Scientifique option physique-chimie.__
 __Institut de Formation en Soins Infirmier Kremlin-Bicêtre__
 
 `2020-2024`
-__Licence d'Anglais LLCER (Langues Littératures et Civilisation Etrangères ou régionales anglophone) UPEC __
+__Licence d'Anglais LLCER (Langues Littératures et Civilisation Etrangères ou régionales anglophone) UPEC__
 
 
 
