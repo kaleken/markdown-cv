@@ -10,7 +10,7 @@ Etudiante.
 </div>
 
 
-## Currently
+## Actuellement
 
 Etudiante à la Sorbonne Nouvelle - Licence Science du Langage
 
