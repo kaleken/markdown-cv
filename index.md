@@ -3,7 +3,7 @@ layout: cv
 title: CV Léa Damagnez
 ---
 # Léa Damagnez
-[mardown]: 
+[mardown]: photo cv.jpg
 Etudiante.
 
 <div id="webaddress">
