@@ -48,12 +48,13 @@ _Etudiante infirmière_
 __Hôpital psychiatrique Paul Guiraud__
 _Etudiante infirmière_
 
-`Fév. 2023-Aoû. 2023
-Juin 2024-Septembre 2024`
+`Fév. 2023-Aoû. 2023`
+`Juin 2024-Sep. 2024`
 __Label Ferme__
 _Equipier polyvalent_
 
 ## Compétences
+
 
 | Langue   | Niveau |
 | -------- | ------ |
@@ -73,8 +74,7 @@ _Equipier polyvalent_
 
 
 
-[mardown]:  https://github.com/kaleken/markdown-cv/blob/5ee60b6a5ab699fb58187773fd2569525417cd72/photo%20cv.jpg
-
+[mardown]: https://github.com/kaleken/markdown-cv/blob/3ef1cabad58c2ecbbc418adab3183b93d5f51cec/photo%20cv.jpg
 
 
 
