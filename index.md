@@ -3,7 +3,7 @@ layout: cv
 title: CV Léa Damagnez
 ---
 # Léa Damagnez
-![image] (https://github.com/kaleken/markdown-cv/blob/5ee60b6a5ab699fb58187773fd2569525417cd72/photo%20cv.jpg)
+![En-tête][mardown]
 
 Etudiante
 
@@ -73,7 +73,7 @@ _Equipier polyvalent_
 
 
 
-
+[mardown]:  https://github.com/kaleken/markdown-cv/blob/5ee60b6a5ab699fb58187773fd2569525417cd72/photo%20cv.jpg
 
 
 
