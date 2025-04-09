@@ -46,15 +46,23 @@ _Etudiante infirmière_
 __Hôpital psychiatrique Paul Guiraud__
 _Etudiante infirmière_
 
-`Fév. 2023-Aoû. 2023 - Juin 2024-Septembre 2024`
-__Equipier polyvalent Label Ferme__
+`Fév. 2023-Aoû. 2023 / Juin 2024-Septembre 2024`
+__Label Ferme__
+_Equipier polyvalent_
 
-
-## Niveau de langue
+## Compétences
+| Langue | Niveau |
 | -------- | -- |
 | Français | C2 |
 | Anglais  | C1 |
 | Espagnol | B1 |
+
+* Logiciels
+  * Excel
+  * PowerPoint
+  * Word
+ 
+
 
 
 
