@@ -8,6 +8,7 @@ Etudiante.
 <div id="webaddress">
 <a href="lea.damagnez4@gmail.com">lea.damagnez4@gmail.com</a>
 </div>
+<a href="0778559296">07 78 55 92 96</a>
 
 
 ## Actuellement
@@ -28,7 +29,8 @@ __Institut de Formation en Soins Infirmier Kremlin-Bicêtre__
 `2020-2024`
 __Licence d'Anglais LLCER (Langues Littératures et Civilisation Etrangères ou régionales anglophone) UPEC__
 
-
+`2024- `
+__Licence Science du Langage - Sorbonne Nouvelle
 
 ## Expériences professionnelles
 
@@ -49,10 +51,9 @@ __Equipier polyvalent Label Ferme__
 
 
 ## Niveau de langue
+| -------- | -- |
 | Français | C2 |
-----------------
-| Anglais | C1 |
----------------
+| Anglais  | C1 |
 | Espagnol | B1 |
 
 
