@@ -3,8 +3,9 @@ layout: cv
 title: CV Léa Damagnez
 ---
 # Léa Damagnez
-[mardown]: photo cv.jpg
-Etudiante.
+![image] (https://github.com/kaleken/markdown-cv/blob/5ee60b6a5ab699fb58187773fd2569525417cd72/photo%20cv.jpg)
+
+Etudiante
 
 <div id="webaddress">
 <a href="lea.damagnez4@gmail.com">lea.damagnez4@gmail.com</a>
