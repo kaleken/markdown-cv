@@ -8,7 +8,7 @@ Etudiante.
 <div id="webaddress">
 <a href="lea.damagnez4@gmail.com">lea.damagnez4@gmail.com</a>
 </div>
-<a href="0778559296">07 78 55 92 96</a>
+<a href="0778559296">0778559296</a>
 
 
 ## Actuellement
@@ -30,7 +30,7 @@ __Institut de Formation en Soins Infirmier Kremlin-Bicêtre__
 __Licence d'Anglais LLCER (Langues Littératures et Civilisation Etrangères ou régionales anglophone) UPEC__
 
 `2024- `
-__Licence Science du Langage - Sorbonne Nouvelle
+__Licence Science du Langage - Sorbonne Nouvelle__
 
 ## Expériences professionnelles
 
@@ -46,16 +46,19 @@ _Etudiante infirmière_
 __Hôpital psychiatrique Paul Guiraud__
 _Etudiante infirmière_
 
-`Fév. 2023-Aoû. 2023 / Juin 2024-Septembre 2024`
+`Fév. 2023-Aoû. 2023
+Juin 2024-Septembre 2024`
 __Label Ferme__
 _Equipier polyvalent_
 
 ## Compétences
-| Langue | Niveau |
-| -------- | -- |
-| Français | C2 |
-| Anglais  | C1 |
-| Espagnol | B1 |
+
+| Langue   | Niveau |
+| -------- | ------ |
+| Français |   C2   |
+| Anglais  |   C1   |
+| Espagnol |   B1   |
+
 
 * Logiciels
   * Excel
