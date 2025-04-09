@@ -3,7 +3,7 @@ layout: cv
 title: CV Léa Damagnez
 ---
 # Léa Damagnez
-![En-tête][mardown]
+![En-tête][mardown] (https://github.com/kaleken/markdown-cv/blob/3ef1cabad58c2ecbbc418adab3183b93d5f51cec/photo%20cv.jpg)
 
 Etudiante
 
