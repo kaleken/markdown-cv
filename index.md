@@ -4,20 +4,20 @@ title: CV Léa Damagnez
 ---
 # Léa Damagnez
 ![En-tête][mardown]
-
-Etudiante
 ---
+Etudiante
+
 <div id="webaddress">
 <a href="lea.damagnez4@gmail.com">lea.damagnez4@gmail.com</a>
 </div>
 <a href="0778559296">0778559296</a>
 
----
+
 ## <u> Actuellement </u>
 
 Etudiante à la Sorbonne Nouvelle - Licence Science du Langage
 
----
+
 
 ## Education
 
@@ -33,7 +33,7 @@ __Licence d'Anglais LLCER (Langues Littératures et Civilisation Etrangères ou 
 `2024- `
 __Licence Science du Langage - Sorbonne Nouvelle__
 
----
+
 ## Expériences professionnelles
 
 `Nov. 2013-Nov. 2013`
@@ -49,11 +49,12 @@ __Hôpital psychiatrique Paul Guiraud__
 _Etudiante infirmière_
 
 `Fév. 2023-Aoû. 2023`
+
+
 `Juin 2024-Sep. 2024`
-__Label Ferme__
+ __Label Ferme__
 _Equipier polyvalent_
 
----
 
 ## Compétences
 
@@ -71,15 +72,15 @@ _Equipier polyvalent_
 
 ## Loisirs
 
-[] Lecture : Je lis énormément et fais partie d'un groupe de lecture
-[] Sport : pratique du Basket-Ball pendant dix ans 
+* Lecture : Je lis énormément et fais partie d'un groupe de lecture
+* Sport : pratique du Basket-Ball pendant dix ans 
 
 
 
 
 
 
-[mardown]: https://github.com/kaleken/markdown-cv/blob/3ef1cabad58c2ecbbc418adab3183b93d5f51cec/photo%20cv.jpg
+[mardown]: 
 
 
 
