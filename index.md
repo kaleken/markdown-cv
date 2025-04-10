@@ -80,7 +80,7 @@ _Equipier polyvalent_
 
 
 
-[mardown]: 
+[mardown]: https://github.com/kaleken/markdown-cv/blob/5e2fd36bda4801f2a5dc8d5d46cc0946578b2e4c/blank-profile-picture-973460_640.webp
 
 
 
