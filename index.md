@@ -3,7 +3,7 @@ layout: cv
 title: CV Léa Damagnez
 ---
 # Léa Damagnez
-![En-tête][mardown]
+![Image][mardown]
 ---
 Etudiante
 
@@ -18,9 +18,7 @@ Etudiante
 Etudiante à la Sorbonne Nouvelle - Licence Science du Langage
 
 
-
-## Education
-
+## <u> Education </u>
 `2015-2019`
 __Lycée Cachan - Bacalauréat Scientifique option physique-chimie.__
 
@@ -34,8 +32,7 @@ __Licence d'Anglais LLCER (Langues Littératures et Civilisation Etrangères ou 
 __Licence Science du Langage - Sorbonne Nouvelle__
 
 
-## Expériences professionnelles
-
+## <u> Expériences professionnelles </u>
 `Nov. 2013-Nov. 2013`
 __ADIDAS Champs-Elysée__
 _Stagiaire en découverte_
@@ -57,7 +54,7 @@ _Equipier polyvalent_
 _Equipier polyvalent_
 
 
-## Compétences
+## <u> Compétences
 
 | Langue   | Niveau |
 | -------- | ------ |
