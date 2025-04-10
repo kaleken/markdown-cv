@@ -13,7 +13,7 @@ Etudiante
 <a href="0778559296">0778559296</a>
 
 ---
-## Actuellement
+## <u> Actuellement </u>
 
 Etudiante à la Sorbonne Nouvelle - Licence Science du Langage
 
@@ -69,7 +69,8 @@ _Equipier polyvalent_
   * PowerPoint
   * Word
 
- ## Loisirs
+## Loisirs
+
 [] Lecture : Je lis énormément et fais partie d'un groupe de lecture
 [] Sport : pratique du Basket-Ball pendant dix ans 
 
