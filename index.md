@@ -70,7 +70,8 @@ _Equipier polyvalent_
   * Word
 
  ## Loisirs
- * 
+[] Lecture : Je lis énormément et fais partie d'un groupe de lecture
+[] Sport : pratique du Basket-Ball pendant dix ans 
 
 
 
