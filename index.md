@@ -49,7 +49,8 @@ __Hôpital psychiatrique Paul Guiraud__
 _Etudiante infirmière_
 
 `Fév. 2023-Aoû. 2023`
-
+__Label Ferme__
+_Equipier polyvalent_
 
 `Juin 2024-Sep. 2024`
  __Label Ferme__
