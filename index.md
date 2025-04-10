@@ -82,7 +82,7 @@ _Equipier polyvalent_
   * PowerPoint
   * Word
 
-## Loisirs
+## <u> Loisirs </u>
 
 * Lecture : Je lis énormément et fais partie d'un groupe de lecture
 * Sport : pratique du Basket-Ball pendant dix ans 
