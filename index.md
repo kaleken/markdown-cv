@@ -62,6 +62,20 @@ _Equipier polyvalent_
 | Anglais  |   C1   |
 | Espagnol |   B1   |
 
+<table>
+ <tr>
+  <td>Langue</td><td>Niveau</td>
+ </tr>
+ <tr>
+  <td>Français</td><td>C2</td>
+ </tr>
+ <tr>
+  <td>Anglais</td><td>C1</td>
+ </tr>
+ <tr>
+  <td>Espagnol</td><td>B1</td>
+ </tr>
+</table>
 
 * Logiciels
   * Excel
