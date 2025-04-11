@@ -1,6 +1,6 @@
 J'ai choisi de faire un CV car le mien avait besoin d'être mis à jour. Grâce a la platforme GitHub et le markdown je peux garder le CV et le mettre à jour régulièrement.
 ---
-J'ai utilisé le modèle CV de XX que j'ai fork sur mon repository afin de pouvoir modifié les fichiers. 
+J'ai utilisé le modèle CV de elipapa que j'ai fork sur mon repository afin de pouvoir modifié les fichiers. 
 En suivant les indications du README, j'ai modifié le fichier index.md afin de composer mon propre CV. J'ai commencé par chnager les informations du modèle (Nom, adresse mail, années d'études, ...). Puis j'ai traduit les titres des différentes sections. J'ai ensuite ajouté differentes sections qui n'existait pas dans le modèle comme les compétences ou les loisirs. 
 --- 
 Après toute la partie écrite, j'ai voulu mettre en page mes différentes parties. J'ai commencé par ajouté des textes en gras et en itlaique grâce au Markdown. J'ai aussi ajouté des listes afin de faciliter la lecture du document. 
