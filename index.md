@@ -21,7 +21,7 @@ Etudiante à la Sorbonne Nouvelle - Licence Science du Langage
 
 ## <u> Education </u>
 `2015-2019`
-__Lycée Cachan - Bacalauréat Scientifique option physique-chimie.__
+__Lycée Cachan - Baccalauréat Scientifique option physique-chimie.__
 
 `2019-2020`
 __Institut de Formation en Soins Infirmier Kremlin-Bicêtre__
